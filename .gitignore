@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 /Fail
 /Example
-/app/backend/.env
+# /app/backend/.env
